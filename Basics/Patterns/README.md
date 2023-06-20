@@ -5,3 +5,5 @@ Hollow Square
 Simple Pyramid
 
 Hollow Simple Pyramid
+
+Inverted Pyramid
