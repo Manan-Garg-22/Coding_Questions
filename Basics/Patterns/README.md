@@ -7,3 +7,7 @@ Simple Pyramid
 Hollow Simple Pyramid
 
 Inverted Pyramid
+
+
+Hollow Inverted Pyramid
+
