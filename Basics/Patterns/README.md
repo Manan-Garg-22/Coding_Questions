@@ -12,3 +12,4 @@ Rotated Pyramid
 
 Hollow Rotated Pyramid
 
+Inverted Pyramid
