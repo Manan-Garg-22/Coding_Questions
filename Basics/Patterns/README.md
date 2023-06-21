@@ -8,8 +8,7 @@ Simple Pyramid
 
 Hollow Simple Pyramid
 
-Inverted Pyramid
+Rotated Pyramid
 
-
-Hollow Inverted Pyramid
+Hollow Rotated Pyramid
 
