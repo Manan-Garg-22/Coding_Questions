@@ -26,3 +26,5 @@ Hollow Triangle
 
 Inverted triangle
 
+Hollow Inverted Triangle
+
