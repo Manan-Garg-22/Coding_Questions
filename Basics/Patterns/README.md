@@ -20,3 +20,4 @@ Inverted Rotated Pyramid
 
 Hollow Inverted Rotated Pyramid
 
+Filled Triangle
