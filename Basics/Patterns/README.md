@@ -23,3 +23,6 @@ Hollow Inverted Rotated Pyramid
 Filled Triangle
 
 Hollow Triangle
+
+Inverted triangle
+
