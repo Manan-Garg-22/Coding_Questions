@@ -28,3 +28,4 @@ Inverted triangle
 
 Hollow Inverted Triangle
 
+Odd Layer Triangle
