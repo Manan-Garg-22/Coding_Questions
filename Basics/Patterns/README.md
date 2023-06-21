@@ -32,4 +32,6 @@ Odd Layer Triangle (Ascending)
 
 Odd Layer Triangle (Descending)
 
+Even Layer Triangle (Ascending)
 
+Even Layer Triangle (Descending)
