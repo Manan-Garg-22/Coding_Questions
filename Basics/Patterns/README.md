@@ -28,4 +28,8 @@ Inverted triangle
 
 Hollow Inverted Triangle
 
-Odd Layer Triangle
+Odd Layer Triangle (Ascending)
+
+Odd Layer Triangle (Descending)
+
+
