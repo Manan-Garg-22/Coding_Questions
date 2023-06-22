@@ -46,5 +46,9 @@ Hollow Special Inverted Triangle
 
 Number Pyramid
 
-Number Reset Pyramid
+Reset Number Pyramid
+
+Row Reset Number Pyramid
+
+Continuous Number Pyramid
 
