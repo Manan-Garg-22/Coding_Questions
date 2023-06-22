@@ -43,3 +43,6 @@ Hollow Special Triangle
 Special Inverted Triangle
 
 Hollow Special Inverted Triangle
+
+Number Reset Pyramid
+
