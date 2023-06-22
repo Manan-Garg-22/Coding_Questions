@@ -50,5 +50,7 @@ Reset Number Pyramid
 
 Row Reset Number Pyramid
 
+Row Reset Number Pyramid [Decreasing]
+
 Continuous Number Pyramid
 
