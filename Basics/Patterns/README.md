@@ -50,8 +50,13 @@ Reset Number Pyramid
 
 Row Reset Number Pyramid
 
-Row Reset Number Pyramid [Decreasing]
+Row Reset Number Pyramid (Decreasing)
 
 Continuous Number Pyramid
 
 Continuous Number Triangle
+
+Palindrome Number Triangle (Boundary: 1)
+
+Palindrome Number Triagle (Boundary: RowNumber)
+
