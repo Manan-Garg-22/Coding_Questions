@@ -44,5 +44,7 @@ Special Inverted Triangle
 
 Hollow Special Inverted Triangle
 
+Number Pyramid
+
 Number Reset Pyramid
 
