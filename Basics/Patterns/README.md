@@ -54,3 +54,4 @@ Row Reset Number Pyramid [Decreasing]
 
 Continuous Number Pyramid
 
+Continuous Number Triangle
