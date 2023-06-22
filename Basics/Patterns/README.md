@@ -36,7 +36,10 @@ Even Layer Triangle (Ascending)
 
 Even Layer Triangle (Descending)
 
-Special Inverted Triangle
+Special Triangle
 
+Hollow Special Triangle
+
+Special Inverted Triangle
 
 Hollow Special Inverted Triangle
