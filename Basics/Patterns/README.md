@@ -63,3 +63,5 @@ Palindrome Number Triagle (Boundary: RowNumber)
 Palindrome Alphabet Triangle
 
 Row Reset Alphabet Triangle
+
+Dabangg Pattern
