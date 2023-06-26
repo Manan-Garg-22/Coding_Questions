@@ -1,4 +1,5 @@
 https://www.geeksforgeeks.org/cpp-program-to-print-pyramid-patterns/
+https://www.faceprep.in/c/pattern-programs-in-c/
 
 Filled Square
 
