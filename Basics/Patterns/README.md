@@ -67,3 +67,5 @@ Palindrome Alphabet Triangle
 Row Reset Alphabet Triangle
 
 Dabangg Pattern
+
+Solid Diamond
