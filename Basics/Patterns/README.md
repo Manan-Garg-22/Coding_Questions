@@ -69,3 +69,6 @@ Row Reset Alphabet Triangle
 Dabangg Pattern
 
 Solid Diamond
+
+Solid Half Diamond
+
