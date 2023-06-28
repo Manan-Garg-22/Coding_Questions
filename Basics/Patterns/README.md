@@ -72,6 +72,8 @@ Solid Diamond
 
 Solid Half Diamond
 
+Butterfly Pattern
+
 Palindrome Number Half Diamond (Boundary: *)
 
 Pascal Triangle
