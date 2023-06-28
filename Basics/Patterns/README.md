@@ -73,3 +73,6 @@ Solid Diamond
 Solid Half Diamond
 
 Palindrome Number Half Diamond (Boundary: *)
+
+Pascal Triangle
+
