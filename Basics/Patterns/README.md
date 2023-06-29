@@ -92,4 +92,6 @@ Simple Pyramid (Recursion)
 
 Inverted Pyramid (Recursion)
 
+Rotated Simple Pyramid (Recursion)
+
 
