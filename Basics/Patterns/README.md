@@ -86,3 +86,8 @@ Fibonacci Series (Normal)
 
 Fibonacci Series (Recursion)
 
+Simple Pyramid (Recursion)
+
+Inverted Pyramid (Recursion)
+
+
