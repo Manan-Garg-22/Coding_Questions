@@ -76,6 +76,10 @@ Butterfly Pattern
 
 Palindrome Number Half Diamond (Boundary: *)
 
+Square with Diagonal
+
+Diamond with Diagonal
+
 Pascal Triangle
 
 Fibonacci Series (Normal)
