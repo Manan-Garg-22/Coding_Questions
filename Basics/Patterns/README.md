@@ -82,6 +82,8 @@ Diamond with Diagonal
 
 Pascal Triangle
 
+Pascal Triangle (Recursion)
+
 Fibonacci Series (Normal)
 
 Fibonacci Series (Recursion)
