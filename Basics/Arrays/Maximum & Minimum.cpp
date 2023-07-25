@@ -33,3 +33,7 @@ int main()
     cout<<"\nMinimum element is: "<<Minimum(arr,size);
     return 0;
 }
+
+
+//Time Complexity= O(n)
+//Space complexity=O(n)
